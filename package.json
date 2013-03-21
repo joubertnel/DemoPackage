@@ -1,0 +1,8 @@
+{
+    "name": "MyPackage",
+    "version": "0.0.1",
+    "dependencies": {
+        "DemoBorg": "git://github.com/joubertnel/DemoBorg.git#master"
+    }
+}
+    
